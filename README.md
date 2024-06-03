@@ -12,29 +12,19 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/h-mk/) for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
-
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYxd2hjczR0ODFveWp0dHh3eWdmaWNhcDcyNDdvcmdveDVmaGR1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif" />
+<img align="right" height="350" width="375" alt="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYxd2hjczR0ODFveWp0dHh3eWdmaWNhcDcyNDdvcmdveDVmaGR1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif" />
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
+- 🛠 &nbsp; I’m currently working with Python, SQL.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+- 📫 &nbsp; Reach me out: mkamel.ha@gmail.com.
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
 
@@ -48,20 +38,6 @@ Like My Work?
 
 ### Projects and Dev Stuffs:
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
-</details>
 
 <details>
   <br />
@@ -69,7 +45,6 @@ Like My Work?
   	<ul>
   	    <li><b>OS:</b> Linux Ubuntu</li>
   	    <li><b>Browser: </b> Chrome & Firefox</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
  	    <li><b>Other Tools:</b> Notion</li>
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
